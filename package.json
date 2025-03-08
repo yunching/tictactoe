@@ -1,0 +1,13 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A simple web-based Tic Tac Toe game",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}

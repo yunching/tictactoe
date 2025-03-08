@@ -23,3 +23,24 @@ A simple, responsive web-based Tic Tac Toe game built with HTML, CSS, and JavaSc
 - `index.html` - The main HTML structure
 - `styles.css` - CSS styling for the game
 - `script.js` - JavaScript code for game logic
+
+## Testing
+
+This project includes a comprehensive test suite using Jest. For detailed information about the testing infrastructure, how to run tests, and how to add new tests, please see the [Testing Documentation](TESTING.md).
+
+### Running Tests
+
+```bash
+# Install dependencies
+npm install
+
+# Run all tests
+npm test
+
+# Run tests in watch mode
+npm run test:watch
+```
+
+## Contributing
+
+Contributions are welcome! Please read the [Testing Documentation](TESTING.md) before submitting pull requests to ensure your changes pass all tests.
